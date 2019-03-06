@@ -1,0 +1,2 @@
+# pointsbot
+compte les points
